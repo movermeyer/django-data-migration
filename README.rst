@@ -66,13 +66,13 @@ Start participating
 -  Run the tests with ``tox`` against all supported versions of Python
 -  Create a Pull Request on Github
 
-.. |PyPi version| image:: https://pypip.in/v/django-data-migration/badge.png
+.. |PyPi version| image:: https://img.shields.io/pypi/v/django-data-migration.svg
    :target: https://crate.io/packages/django-data-migration/
-.. |PyPi downloads| image:: https://pypip.in/d/django-data-migration/badge.png
+.. |PyPi downloads| image:: https://img.shields.io/pypi/dm/django-data-migration.svg
    :target: https://crate.io/packages/django-data-migration/
 .. |Build Status| image:: https://travis-ci.org/pboehm/django-data-migration.png?branch=master
    :target: https://travis-ci.org/pboehm/django-data-migration
-.. |License| image:: https://pypip.in/license/django-data-migration/badge.png
+.. |License| image:: https://img.shields.io/pypi/l/django-data-migration.svg
    :target: https://pypi.python.org/pypi/django-data-migration/
 .. |Coverage| image:: https://coveralls.io/repos/pboehm/django-data-migration/badge.png?branch=master
    :target: https://coveralls.io/r/pboehm/django-data-migration?branch=master
